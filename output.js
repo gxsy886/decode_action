@@ -1,16 +1,3 @@
-//Mon Sep 02 2024 12:47:11 GMT+0000 (Coordinated Universal Time)
-//Base:https://github.com/echo094/decode-js
-//Modify:https://github.com/smallfawn/decode_action
-/**
- * @平行绳 飞机频道：https://t.me/tigerorrose
- * 变量：elmck: 必填，账号cookie，短信登录面板项目地址：https://github.com/funaihui/eleWeb
- * cron 0 6 10 * * *
- * 只参与 20 无门槛夺宝
- * 2023.8.1 更新：首次发布；
- * 2023.8.2 更新：修复不参与夺宝问题，添加夺宝成功推送；
- * 2023.8.29 更新：适配新版的幸运夺宝
- */
-
 const $ = new Env("\u997F\u4E86\u4E48\u5E78\u8FD0\u593A\u5B9D");
 var version_ = "pingxingsheng";
 const _0x4b23b4 = _0x4362;
